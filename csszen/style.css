@@ -1,0 +1,84 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: #442727;
+    background-color: #C4C420;
+    margin: 20px;
+    padding: 0;
+}
+
+footer {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 11px;
+    color: #5D1FC7;
+    background-color: #CA1296;
+    margin: 15px;
+    padding: 10;
+}
+.preamble p{
+    display: inline;
+}
+
+.design-selection {
+    position: absolute;
+    top: 1500px;
+    width: 200px;
+    height: 1000px;
+    left: 800px;
+}
+p {
+    line-height: 21px;
+}
+
+h1 #zen-intro {
+    color: #ffc;
+    background-color: #A6A0A0;
+    font-size: 2em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 7px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: #A98585;
+}
+
+h2 #zen-summary{
+    color: white;
+    background-color: #79D879;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 2px;
+    padding-left: 14px;
+}
+
+h3 #zen-preamble{
+    color: #999;
+    font-size: 1.25em;
+}
+
+img {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #ccc;
+}
+
+a {
+    text-decoration: none;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+li  #design-selection {
+    color: #900;
+    font-style: italic;
+}
+
+table {
+    background-color: #ccc;
+}
